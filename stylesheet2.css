@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(150, 190, 190);
+}
+.navbar-brand{
+    font-weight:600;
+}
+.table-head{
+    background-color: rgb(6, 6, 43);
+}
